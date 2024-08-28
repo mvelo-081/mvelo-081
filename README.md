@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvelo-081
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning javastrip, python, c++
+- 🌱 I’m currently learning javastript, python, c++, java
 - 💞️ I’m looking to collaborate on building a project
 - 📫 How to reach me on whatsapp 24/7 - 082 254 8353
 - 😄 Pronouns: ...
