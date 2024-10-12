@@ -2,9 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning javastript, python, c++, java
 - 💞️ I’m looking to collaborate on building a project
-- 📫 How to reach me on whatsapp 24/7 - 082 254 8353
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach me on whatsapp 24/7 - 082 254 8353
 
 <!---
 mvelo-081/mvelo-081 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
