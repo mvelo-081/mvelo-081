@@ -30,4 +30,4 @@
 
 [Rock Paper scissors game](https://github.com/mvelo-081/RockPaperScissors)
 
-[Restaurant Finder webapp](https://github.com/mvelo-081/projectOne)
+[Restaurant Finder](https://github.com/mvelo-081/RERSTAURANT-FINDER)
