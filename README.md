@@ -26,6 +26,7 @@ Here are a few of the projects I’ve worked on to strengthen my skills and show
 
 - [Rock Paper Scissors Game](https://github.com/mvelo-081/RockPaperScissors)
 - [Restaurant Finder](https://github.com/mvelo-081/RERSTAURANT-FINDER)
+- [Pokemon character card maker]() 
 
 More projects coming soon as I continue to build and explore new technologies!
 
