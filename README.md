@@ -13,10 +13,10 @@
 *In the above programming languages I have created mini project to show my learning journey*
 
 *And I am also good at using the following applications*
-<br/>
--Visual studio code <br/>
--guthub<br/>
--phpMyAdmin
+
+- Visual studio code 
+- guthub
+- phpMyAdmin
 
 
 **I am still on a journey of learning many other concepts in the world of technology and computer programming _ I am open to any collab && internships available to me**
