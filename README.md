@@ -28,4 +28,4 @@
 
 ## Projects
 
-<link href="#"> Rock Paper scissors game </link>
+<link href="https://github.com/mvelo-081/RockPaperScissors"> Rock Paper scissors game </link>
