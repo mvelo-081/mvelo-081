@@ -1,33 +1,42 @@
-## Hi 👋, I am Mvelo Khumalo.
+## Hi there! 👋 I'm Mvelo Khumalo
 
-*I am a computer science student in the university of KwaZulu-Natal. **I am mojaring in information technology, currently in second year.***
+I'm a passionate **Computer Science student** at the **University of KwaZulu-Natal**, currently in my second year, majoring in **Information Technology**.
 
-*As I am in my second year , I am confidentto say that I am skilled in using the following programming language* 
-- python
-- java
-- bootstrap(html, css, javascript)
+### About Me
+
+As a second-year student, I’ve gained confidence and experience in a range of programming languages and tools. I enjoy building practical projects that demonstrate what I’ve learned, and I’m continuously working to grow as a developer.
+
+### Skills
+
+**Programming Languages & Frameworks**
+- Python
+- Java
+- HTML, CSS, JavaScript (Bootstrap)
 - React.js
-- php (basics)
+- PHP (Basics)
 
-
-*In the above programming languages I have created mini project to show my learning journey*
-
-*And I am also good at using the following applications*
-
-- Visual studio code 
-- guthub
+**Tools & Technologies**
+- Visual Studio Code
+- GitHub
 - phpMyAdmin
 
+### Projects
 
-**I am still on a journey of learning many other concepts in the world of technology and computer programming _ I am open to any collab && internships available to me**
+Here are a few of the projects I’ve worked on to strengthen my skills and showcase my learning journey:
 
+- [Rock Paper Scissors Game](https://github.com/mvelo-081/RockPaperScissors)
+- [Restaurant Finder](https://github.com/mvelo-081/RERSTAURANT-FINDER)
 
-**Qoute** 
- > *Everything is possible with a good mindset and ordered set of goals*
+More projects coming soon as I continue to build and explore new technologies!
 
+### Always Learning
 
-## Projects
+I'm constantly exploring new concepts in software development and computer science. I’m open to **collaborations**, **mentorship**, and **internship opportunities** where I can grow and contribute meaningfully.
 
-[Rock Paper scissors game](https://github.com/mvelo-081/RockPaperScissors)
+### Quote I Live By
 
-[Restaurant Finder](https://github.com/mvelo-081/RERSTAURANT-FINDER)
+> *"Everything is possible with a good mindset and an ordered set of goals."*
+
+---
+
+Let’s connect and build something awesome together!
