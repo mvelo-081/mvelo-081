@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Mvelo Khumalo
+# Hi there! 👋 I'm Mvelo Khumalo
 
 I'm a passionate **Computer Science student** at the **University of KwaZulu-Natal**, currently in my second year, majoring in **Information Technology**.
 
