@@ -24,6 +24,7 @@ As a second-year student, I’ve gained confidence and experience in a range of 
 
 Here are a few of the projects I’ve worked on to strengthen my skills and showcase my learning journey:
 
+- [My portfolio website](https://github.com/mvelo-081/my-portfolio)
 - [Rock Paper Scissors Game](https://github.com/mvelo-081/RockPaperScissors)
 - [Restaurant Finder](https://github.com/mvelo-081/RERSTAURANT-FINDER)
 - [Pokemon character card maker](https://github.com/mvelo-081/pokemon-card) 
